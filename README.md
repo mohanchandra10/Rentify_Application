@@ -2,12 +2,8 @@
 
 Rentify is a web application designed to simplify the process of renting properties for both landlords (sellers) and tenants (buyers). With features tailored to meet the needs of users on both sides of the rental market, Rentify aims to streamline property listing, viewing, and application processes.
 
-# Live Links
-1. https://rentify.jayworks.tech - FRONTEND
-2. https://rentapi.jayworks.tech - BACKEND
-
 # Github Repo Link 
-https://github.com/jayeshva/Presidio_Hiring_Challenge_Rentify
+https://github.com/mohanchandra10/Rentify_Application
 
 ## Technologies Used
 1. Node js - Backend , React js - Frontend
